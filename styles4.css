@@ -1,0 +1,38 @@
+.carousel-item{
+    max-height: 90vh;
+}
+
+.btn{
+    background-color: rgb(95, 74, 50);
+    color: white;
+    border-color: brown;
+}
+
+.btn:hover{
+    background-color:rgb(209, 130, 102);
+}
+
+.card-body{
+    background-color: rgb(121, 148, 121);
+}
+.card{
+    border-bottom: 1rem;
+    margin: 2rem;
+}
+
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+form{
+    padding: 0rem 2rem;
+    padding-bottom: 1rem;
+}
+
+h1{
+    padding: 1rem 2rem;
+    color: rgb(209, 130, 102);
+}
